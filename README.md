@@ -1,5 +1,5 @@
 # googletrends_python_analyzeData
-A console tool connect the google trends API to store data into PostgreSQL and analyze the data by export into excel and chart
+A console tool connect the google trends API (https://trends.google.com/trends/trendingsearches/daily?geo=US) to store data into PostgreSQL and analyze the data by export into excel and chart
 
 DATABASE
 Thực hiện tạo bảng tên vn_trending theo cấu trúc các trường như sau:
